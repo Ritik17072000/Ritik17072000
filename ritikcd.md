@@ -1,5 +1,5 @@
 ## try
-###trying images
+### trying images
 - here is an image attached
 ---
 
@@ -9,5 +9,11 @@
 <option value="option1">option 1</option>
 <option value="option2">option 2</option>
 </select>
-
+---
+<details>
+  <summary>dropdown Menu</summary>
+  - option3
+  - option4
+  - option5
+</details>
 🚑

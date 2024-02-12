@@ -6,6 +6,7 @@
 💡
 ![beautifull_tree](ritik1.jpg)
 <<<<<<< HEAD
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -36,23 +37,3 @@ function displaySelectedOption() {
 </body>
 </html>
 =======
-<select>
-<option value="option1">option 1</option>
-<option value="option2">option 2</option>
-</select>
----
-<details>
-  <summary>dropdown Menu</summary>
-  - option3
-  - option4
-  - option5
-</details>
-
-<select id ="dropdown">
-<option value="option1">option 1</option>
-<option value="option2">option 2</option>
-</select>
-
-
-🚑
->>>>>>> dbad9942b7e2587205a2d3a4877713dd09319a6a

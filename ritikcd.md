@@ -18,3 +18,8 @@
 <option value="option1">option1</option>
 <option value="option2">option2</option>
 </select>
+---
+<select id ="dropdown">
+<option value="option1">option 1</option>
+<option value="option2">option 2</option>
+</select>

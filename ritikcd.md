@@ -13,4 +13,8 @@
   1.plz 2.work 3. plz 4. i pray 
 </details>
 
-
+---
+<select>
+<option value="option1">option1</option>
+<option value="option2">option2</option>
+</select>
